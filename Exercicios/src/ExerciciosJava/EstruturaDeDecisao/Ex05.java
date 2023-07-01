@@ -25,6 +25,7 @@ public class Ex05 {
         } else {
             System.out.printf("Média: %.2f Reprovado.", media);
         }
+        sc.close();
     }
 }
 

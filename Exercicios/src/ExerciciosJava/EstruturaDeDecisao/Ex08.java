@@ -23,7 +23,6 @@ public class Ex08 {
             menor = produto3;
         }
         System.out.printf("Você deve comprar o produto mais barato que custa R$ %d", menor);
-
-
+        sc.close();
     }
 }

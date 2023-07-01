@@ -21,5 +21,6 @@ public class Ex06 {
         } else {
             System.out.println(num3);
         }
+        sc.close();
     }
 }

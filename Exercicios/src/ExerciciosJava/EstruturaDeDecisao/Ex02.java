@@ -15,5 +15,6 @@ public class Ex02 {
         } else {
             System.out.println(num + " é negativo");
         }
+        sc.close();
     }
 }

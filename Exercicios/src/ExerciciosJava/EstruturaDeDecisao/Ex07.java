@@ -21,5 +21,6 @@ public class Ex07 {
         } else if (num3 < num1 && num3 < num2) {
             System.out.println(num3);
         }
+        sc.close();
     }
 }

@@ -18,5 +18,6 @@ public class Ex04 {
         } else {
             System.out.printf("%s, é uma consoante.", letra);
         }
+        sc.close();
     }
 }

@@ -18,5 +18,6 @@ public class Ex03 {
         } else {
             System.out.println("Sexo Inválido");
         }
+        sc.close();
     }
 }
