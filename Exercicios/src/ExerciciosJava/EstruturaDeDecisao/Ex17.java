@@ -15,5 +15,6 @@ public class Ex17 {
         }else {
             System.out.println(ano + " não é um ano bissexto.");
         }
+        sc.close();
     }
 }
