@@ -25,6 +25,7 @@ public class Ex18 {
         } else if (array[1] < array[0] && array[1] < array[2]) {
             menor = array[1];
         } else {
+
             menor = array[2];
         }
         int soma = maior + menor;

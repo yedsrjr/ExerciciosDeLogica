@@ -23,6 +23,7 @@ public class Ex19 {
             if (array[i] > maior){
                 maior = array[i];
             }
+
             soma = maior + menor;
         }
         System.out.println("Maior: " + maior);
