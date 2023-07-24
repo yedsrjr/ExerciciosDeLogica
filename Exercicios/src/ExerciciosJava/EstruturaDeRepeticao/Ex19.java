@@ -9,7 +9,7 @@ public class Ex19 {
         int[] array = new int[3];
 
         for (int i = 0; i < array.length; i++) {
-            array[i] = random.nextInt(10) ;
+            array[i] = random.nextInt(1000) ;
         }
 
         int maior = array[0];
